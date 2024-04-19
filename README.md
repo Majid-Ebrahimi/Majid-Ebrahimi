@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Android Studio & Java Language
 - 📫 How to reach me : MajidEbrahiimi@gmail.com || @MajidEbrahiimi Instagram or Telegram
 -->
-- 🔭 I’m currently working on Frontend
+- 🔭 I’m currently working on Frontend whith React
 - 🌱 I’m currently learning React & JS Language
 - 📫 How to reach me : MajidEbrahiimi@gmail.com Telegram
