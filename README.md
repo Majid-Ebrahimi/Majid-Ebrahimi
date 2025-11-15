@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me : MajidEbrahiimi@gmail.com || @MajidEbrahiimi Instagram or Telegram
 -->
 
-- 📫 How to reach me : MajidEbrahiimi@gmail.com Telegram
+- 📫 How to reach me : @MajidEbrahiimi Telegram
