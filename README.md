@@ -32,7 +32,7 @@ A passionate **Full-Stack Software Developer** focused on bridging the gap betwe
 <p align="center">
   <!-- Backend & DB Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,sqlserver,redis,elasticsearch,rabbitmq,docker&perline=7" alt="Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,redis,elasticsearch,rabbitmq,docker&perline=7" alt="Backend Stack" />
   </a>
 </p>
 <p align="center">
@@ -49,9 +49,9 @@ A passionate **Full-Stack Software Developer** focused on bridging the gap betwe
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <a href="https://github.com/Majid-Ebrahimi">
-   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Majid-Ebrahimi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" height="170" alt="GitHub Stats" /> -->
-  </a>
+ <!-- <a href="https://github.com/Majid-Ebrahimi">
+   <img src="https://github-readme-stats.vercel.app/api?username=Majid-Ebrahimi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" height="170" alt="GitHub Stats" /> 
+  </a> -->
   
   <!-- GitHub Streak Card -->
   <a href="https://github.com/Majid-Ebrahimi">
