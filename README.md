@@ -1,95 +1,62 @@
-<h1 align="center">Hi 👋, I'm Majid Ebrahimi</h1>
-<h3 align="center">Full-Stack Software Developer (.NET & Next.js)</h3>
+<div align="center">
+  
+  # 👋 Hi, I'm Majid Ebrahimi
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Specializing+in+.NET+%26+Next.js;Building+Scalable+%26+User-Centric+Systems" alt="Typing SVG" /></a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Building+scalable+systems+with+.NET+%26+Next.js;Backend-heavy+Full-Stack+Developer;Passionate+about+clean+architecture%2C+performance+%26+DX;Turning+business+needs+into+production-ready+software" alt="Typing SVG" />
-</p>
+  <p align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Animated Developer">
+  </p>
+  
+  <p align="center">
+    I am a passionate <b>Full-Stack Developer</b> focused on building robust backends with modern, responsive frontends. I love solving complex problems, from optimizing booking flows to building comprehensive CRM systems that boost operational efficiency.
+  </p>
 
----
+  <br />
 
-### 🚀 About Me
+  ### 🚀 Tech Stack & Tools
 
-- 🔧 Full-Stack Developer specializing in **.NET / ASP.NET Core** and **Next.js**
-- 🧠 Experienced in building **scalable backend services** and **modern frontend applications**
-- 🏗️ Built a complete **Backoffice Management System** from scratch
-- 📈 Improved support efficiency by **90%** through CRM reporting solutions
-- ⚡ Strong focus on **performance, SEO, clean architecture, and business value**
-- 👨‍🏫 Enjoy mentoring, code reviews, and collaborating in Agile teams
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=dotnet,cs,react,nextjs,ts,tailwind,redux,materialui&perline=8" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=sqlserver,redis,elasticsearch,rabbitmq,git,azure,figma,jira&perline=8" />
+    </a>
+  </p>
 
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nextjs,redux,tailwind,mui,html,css,git,azure,postgres,mysql,sqlite,redis,docker,vscode&perline=9" />
-</p>
-
-#### Backend
-`ASP.NET Core` · `Web API` · `EF Core` · `SQL Server` · `JWT` · `Identity` · `CQRS` · `RabbitMQ` · `Redis` · `Elasticsearch` · `Quartz`
-
-#### Frontend
-`React` · `Next.js` · `SSR/CSR` · `Redux` · `React Query` · `Material UI` · `Tailwind CSS` · `Responsive Design`
-
-#### Tools
-`Git` · `Azure DevOps` · `Jira` · `Scrum` · `Agile` · `Figma`
+</div>
 
 ---
 
-### 📌 Highlights
+### 💡 Key Highlights & Achievements
 
-- ✅ Reduced ticket support cases by **90%**
-- ✅ Improved operational efficiency by **up to 80%**
-- ✅ Delivered production-ready systems with real users and transactions
-- ✅ Built backend-first architectures for maintainability and scale
-- ✅ Developed SEO-optimized landing pages using **Next.js SSR**
-
----
-
-### 🧩 Featured Projects
-
-#### Gamma Gallery
-> Online art marketplace built with **Next.js, Supabase, Tailwind CSS**  
-> End-to-end development including UI, architecture, integration, and deployment
-
-#### Real-time AI Chatbot (Fadak)
-> Frontend for a voice/text AI customer support chatbot  
-> Built with **Next.js + Tailwind CSS** and optimized for real-time UX
-
-#### Changeston
-> Gift card e-commerce platform with online payments  
-> Built with **Next.js + Ant Design** and launched with real users
+- 🏗️ **Built a complete Backoffice Management System** from scratch.
+- 📉 **Reduced ticket support cases by 90%** by developing a comprehensive CRM reporting module.
+- ⚡ **Improved operational efficiency by 80%** via a scalable user/role/permission management system.
+- 🚀 **Boosted SEO & Performance** utilizing Next.js Server-Side Rendering (SSR).
+- 🛠️ **Architecture & Patterns:** Microservices, CQRS, RESTful APIs, and JWT-based Auth.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=007ACC&text_color=C9D1D9&icon_color=007ACC" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true&background=0D1117&ring=007ACC&fire=007ACC&currStreakNum=C9D1D9" height="150" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 🤝 Let’s Connect
+### 📫 Let's Connect!
 
-<p align="center">
+<div align="center">
   <a href="mailto:MajidEbrahiimi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2F80ED,100:00C2FF&section=footer" />
-</p>
+</div>
