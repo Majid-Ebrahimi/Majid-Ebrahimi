@@ -45,7 +45,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Majid-Ebrahimi&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=007ACC&text_color=C9D1D9&icon_color=007ACC" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true&background=0D1117&ring=007ACC&fire=007ACC&currStreakNum=C9D1D9" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Majid-Ebrahimi&theme=radium&hide_border=true&background=0D1117&ring=007ACC&fire=007ACC&currStreakNum=C9D1D9" height="150" alt="GitHub Streak" />
 </div>
 
 ---
