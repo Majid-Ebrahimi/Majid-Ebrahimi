@@ -14,8 +14,6 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Animated Developer">
   </p>
 
-<br/>
-
 <!-- Visitor Badge 
 <img src="https://komarev.com/ghpvc/?username=Majid-Ebrahimi&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /> 
 -->
