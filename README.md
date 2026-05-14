@@ -50,7 +50,7 @@ A passionate **Full-Stack Software Developer** focused on bridging the gap betwe
 
   <!-- GitHub Stats Card -->
   <a href="https://github.com/Majid-Ebrahimi">
-    <img src="https://github-readme-stats.vercel.app/api?username=Majid-Ebrahimi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" height="170" alt="GitHub Stats" />
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Majid-Ebrahimi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" height="170" alt="GitHub Stats" /> -->
   </a>
   
   <!-- GitHub Streak Card -->
