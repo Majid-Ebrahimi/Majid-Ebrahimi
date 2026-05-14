@@ -10,10 +10,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(.NET+%26+Next.js);Building+Scalable+Microservices;Crafting+Modern+Web+Experiences" alt="Typing SVG" />
 </a>
 
+<p align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Animated Developer">
+  </p>
+
 <br/>
 
-<!-- Visitor Badge -->
-<img src="https://komarev.com/ghpvc/?username=Majid-Ebrahimi&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<!-- Visitor Badge 
+<img src="https://komarev.com/ghpvc/?username=Majid-Ebrahimi&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" /> 
+-->
 
 </div>
 
